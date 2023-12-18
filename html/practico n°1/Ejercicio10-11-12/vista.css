@@ -1,0 +1,33 @@
+table,th,td{
+    border: 1px solid ;
+    border-collapse: collapse;
+    
+}
+td,th{
+    text-align: center;
+}
+.rojo{
+    color: red;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+div{
+    background-color: bisque;
+}
+table{
+    margin-top: 10px;
+    background-color: white;
+    width: 100%;
+}
+body{
+    background-color: darkgray;
+}
+button{
+    background-color:lightcoral;
+    
+}
+h2{
+    text-align: center;
+}
