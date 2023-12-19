@@ -1,0 +1,18 @@
+
+table {
+    border: double;
+    border-spacing: 12px;
+    background-color: gray; 
+}
+
+
+th {
+    border: solid;
+    background-color: teal; 
+}
+
+td {
+    border-style: groove;
+    background-color: orange; 
+    padding: 4px;
+}
